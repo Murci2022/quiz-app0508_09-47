@@ -1,6 +1,8 @@
 .header {
   border: var(--border-solid);
-  height: --header-height;
+  height: var(--header-height);
   border: --border-solid;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
