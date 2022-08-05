@@ -1,3 +1,13 @@
 .header {
   border: var(--border-solid);
+  height: var(--header-height);
+  border: --border-solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.logo_holder {
+  border: var(--border-solid);
 }
