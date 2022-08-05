@@ -1,7 +1,1 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  background-color: black;
-}
+@import "elements/css/global.css";
